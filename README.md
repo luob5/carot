@@ -1,10 +1,16 @@
 # carot
 
-api site for luob.io
+API site for luob.io
+
+## Use
+
+* koa
+* koa-router
+* mongoose
 
 ## Roadmap:
 
-1. mongoose √
+1. mongoose
 2. valid
 3. RESTful
 4. Authorization
