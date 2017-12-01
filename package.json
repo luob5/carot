@@ -1,0 +1,21 @@
+{
+  "name": "carot",
+  "version": "1.0.0",
+  "description": "API site for luob.io",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "koa": "^2.4.1",
+    "koa-router": "^7.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "luob",
+  "license": "MIT"
+}
