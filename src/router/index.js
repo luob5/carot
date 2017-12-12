@@ -1,5 +1,5 @@
-import hello from './hello'
-import message from './message'
+import Hello from './hello'
+import Message from './message'
 
 export default [
   hello,

@@ -6,11 +6,11 @@ API site for luob.io
 
 * koa
 * koa-router
-* mongoose
+* sequelize
 
 ## Roadmap:
 
-1. mongoose
+1. sequelize
 2. valid
 3. RESTful
 4. Authorization
